@@ -1,0 +1,21 @@
+{
+  "name": "wrutil",
+  "version": "0.0.1",
+  "description": "Utilities for WR Ingestion Servers",
+  "main": "util.js",
+  "scripts": {
+    "test": "\"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarek707/wrutil.git"
+  },
+  "keywords": [
+    "\"tiraid\""
+  ],
+  "author": "\"Jarek Kulikowski\"",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jarek707/wrutil/issues"
+  }
+}
